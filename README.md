@@ -5,7 +5,7 @@
 - [💵 Buy my consulting services](https://www.malt.fr/profile/pierrebesson)
 - [✉️ Contact me](https://github.com/PierreBesson) (email in profile)
 - [💬 Follow me on Twitter](https://twitter.com/pibesson)
-- ~🏢 Find me on LinkedIn~ (I don't have an account)
+- [🏢 Find me on LinkedIn](https://www.linkedin.com/in/pierre-besson-devops)
 
 [![Pierre's github stats](https://github-readme-stats.vercel.app/api?username=PierreBesson)]()
 
